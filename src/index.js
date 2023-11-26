@@ -10,7 +10,7 @@ import cards from "./countries.json"
 const countries = cards.map(country => country['card-info'][0]);
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Routes>
       <Route path='/' element={<><App /><ScrollToTop /></>} />
       {countries.map((country) => (
