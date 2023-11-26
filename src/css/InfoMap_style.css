@@ -1,0 +1,99 @@
+.info_map{
+    position: relative;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgb(247, 247, 247);
+    width: 95%;
+    border-radius: 30px;
+    margin-bottom: 3%;
+}
+* {
+    color: inherit;
+    text-decoration: inherit;
+}
+.info_map > .info{
+    margin: 3%;
+    padding: 1.5% 0.4%;
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+}
+.info_map > .map{
+    position: relative;
+    display: inline-block;
+    margin-top: 2.5%;
+    width: 40%;
+}
+.info_map > .map > img{
+    width: 90%;
+    margin-left: 5%;
+    user-select: none;
+}
+.info_map > .info > h3{
+    font-family: "Tommy";
+    font-size: 4vw;
+    background-color: black;
+    width: fit-content;
+    padding: 0 40px;
+    color: white;
+    margin-left: 3%;
+    border-radius: 4px;
+}
+.info_map > .info > p{
+    font-family: "Creato-Display";
+    font-size: 1.5vw;
+    max-width: 95%;
+    margin-left: 4%;
+    margin-top: 2%;
+    display: inline-block;
+}
+.info_map > .map > button{
+    border-radius: 100%;
+    width: 1.5vw;
+    height: 1.5vw;
+    background-color: black;
+    position: absolute;
+    cursor: pointer;
+}
+.place_card{
+    top: 4%;
+    right: 4%;
+    position: absolute;
+    width: 17vw;
+    height: 16vw;
+    background-color: white;
+    border-radius: 20px;
+    -webkit-box-shadow: 8px 8px 33px -27px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 8px 8px 33px -27px rgba(66, 68, 90, 1);
+    box-shadow: 8px 8px 33px -27px rgba(66, 68, 90, 1);
+    }
+.place_card > .image{
+    height: 70%;
+    width: 100%;
+    /*background-image: url("../images/content_preview/image1.png");*/
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.place_card > h2{
+    font-family: "Creato-Display";
+    font-size: 2vw;
+    padding-left: 10%;
+    line-height: 90%;
+    padding-top: 3%;
+}
+.place_card > .image > .cross{
+    color: white;
+    font-size: 1.4vw;
+    margin-left: 85%;
+    margin-top: 6%;
+    cursor: pointer;
+    text-shadow: 1px 1px 9px rgba(66, 68, 90, 1);
+}
+
+
+
+.edit_outline:hover{
+    outline: 6px rgb(181, 255, 112) solid;
+}

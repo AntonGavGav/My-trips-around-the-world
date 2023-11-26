@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+}
+html{
+  background-image: radial-gradient(circle, #e7e7e7, #eaeaea, #ededed, #f1f1f1, #f4f4f4);
+}

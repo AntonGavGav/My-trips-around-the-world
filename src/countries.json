@@ -1,0 +1,183 @@
+[
+    {
+        "country": "Poland",
+        "card-preview" : [{
+            "link" : "/poland",
+            "country": "Poland",
+            "city": "Warsaw",
+            "bg-image" : "./Poland/top-image.png",
+            "flag-image" : "./poland.png",
+            "id" : 1
+        }],
+        "card-info" : [{
+            "id" : 1,
+            "link" : "/poland",
+            "top-image": "./Poland/top-image.png",
+            "flag-image": "./poland.png",
+            "country" : "Poland",
+            "map": "./Poland.png",
+            "small-info" : "Poland, in Central Europe, offers rich history, diverse landscapes, and vibrant culture. Explore medieval cities like Krakow and Gdansk, each with unique charm. Warsaw blends historic architecture with modern development.\n\nEnjoy renowned cuisine with pierogi, kielbasa, and bigos. Try traditional Polish vodka and aromatic coffee. Discover natural beauty in the Tatra Mountains, Mazury Lakes, and Bialowieza Forest.\n\nExperience Poland's cultural heritage in museums, churches, and UNESCO sites. Festivals showcase music, film, and art. Warm hospitality, affordability, and a blend of tradition and modernity make Poland a unique destination.",
+            "recomendations": [
+                {
+                    "id": "rec_1",
+                    "name" : "Wieliczka Salt Mine",
+                    "info" : "The Wieliczka Salt Mine made it to the first-ever UNESCO World Heritage List back in 1978. It is the only mining site in the world that has been in continuous operation since the Middle Ages, and the history of these salt deposits dates back as far as 14 million years. At its peak, Poland drew as much as… 20% of its income from salt mining in the so-called Cracow souks (i.e. Wieliczka and Bochnia mines)."
+                },
+                {
+                    "id": "rec_2",
+                    "name" : "Wrocław",
+                    "info" : "Wroclaw is my home and one of the most beautiful cities in Poland. Tourists are attracted by its openness to the world, the variety of attractions and the atmosphere of the place, which is promoted with the slogan “Wroclaw – the meeting place”, not without reason. Finding a more interesting destination for a city break in Poland is hard."
+                },
+                {
+                    "id": "rec_3",
+                    "name": "Cracow",
+                    "info": "When thinking about the most beautiful places in Poland that are worth visiting at least for a weekend, it is impossible not to mention Krakow. This city is a Polish export commodity for foreign tourists and attracts crowds of visitors to Poland. No wonder – the attractions of Krakow and its surroundings are enough for long days of sightseeing."
+                }
+            ],
+            "map-cards" : 
+            [
+                {
+                    "id" : "place_card_1",
+                    "name" : "Warsaw",
+                    "hidden" : true,
+                    "procent-cords" : ["47", "65"],
+                    "image" : "./Poland/cards/warsaw.jpg" 
+                },
+                {
+                    "id" : "place_card_2",
+                    "name" : "Cracow",
+                    "hidden" : true,
+                    "procent-cords" : ["80", "55"],
+                    "image" : "./Poland/cards/krakow.jpeg" 
+                },
+                {
+                    "id" : "place_card_3",
+                    "name" : "Gdansk",
+                    "hidden" : true,
+                    "procent-cords" : ["10", "44"],
+                    "image" : "./Poland/cards/gdansk.jpeg" 
+                }
+            ]
+        }]
+    },
+
+    
+    {
+        "country": "Ukraine",
+        "card-preview" : [{
+            "link" : "/ukraine",
+            "country": "Ukraine",
+            "city": "Kiev",
+            "bg-image" : "./Ukraine/preview.jpg",
+            "flag-image" : "./ukraine.png",
+            "id" : 2
+        }],
+        "card-info" : [{
+            "id" : 2,
+            "link" : "/ukraine",
+            "top-image": "./Ukraine/top-image.jpg",
+            "flag-image": "./ukraine.png",
+            "country" : "Ukraine",
+            "map": "./Ukraine.png",
+            "small-info" : "Ukraine, the largest country in Europe, blends rich history, diverse landscapes, and vibrant culture. Explore Kyiv's golden-domed churches, Lviv's medieval charm, and the Carpathian Mountains for outdoor adventures. Along the Black Sea coast, discover picturesque beaches. Indulge in hearty Ukrainian cuisine and experience warm hospitality. From historic castles to UNESCO sites, Ukraine offers a unique and enriching travel experience.",
+            "recomendations": [
+                {
+                    "id": "rec_1",
+                    "name" : "Vinnytsia",
+                    "info" : "The beautiful and cozy city of Vinnytsia is located beside the Southern Bug River, in west-central Ukraine. The city has gained its importance owing to its unique attraction, the large Multimedia Fountain Roshen. Tourists include this destination in their list of places to visit in Ukraine to watch this unique fountain show and to explore the various historical places."
+                },
+                {
+                    "id": "rec_2",
+                    "name" : "Chernivtsi",
+                    "info" : "Chernivtsi is located at the foot of the Carpathian Mountains in western Ukraine. The city is known for its striking architecture which resembles Australian cities for which it has been named \"Little Vienna\"."
+                }
+            ],
+            "map-cards" : 
+            [
+                {
+                    "id" : "place_card_1",
+                    "name" : "Kamianets-Podilskyi",
+                    "hidden" : true,
+                    "procent-cords" : ["44", "24"],
+                    "image" : "./Ukraine/cards/podilski.jpeg" 
+                },
+                {
+                    "id" : "place_card_2",
+                    "name" : "Chernobyl",
+                    "hidden" : true,
+                    "procent-cords" : ["22", "39"],
+                    "image" : "./Ukraine/cards/chernobyl.jpg" 
+                },
+                {
+                    "id" : "place_card_3",
+                    "name" : "Lviv",
+                    "hidden" : true,
+                    "procent-cords" : ["33", "13"],
+                    "image" : "./Ukraine/cards/lviv.jpg" 
+                }
+            ]
+        }]
+    },
+
+    {
+        "country": "United States",
+        "card-preview" : [{
+            "link" : "/us",
+            "country": "United States",
+            "city": "New York",
+            "bg-image" : "./US/preview.jpg",
+            "flag-image" : "./us.png",
+            "id" : 3
+        }],
+        "card-info" : [{
+            "id" : 3,
+            "link" : "/us",
+            "top-image": "./US/top-image.jpg",
+            "flag-image": "./us.png",
+            "country" : "United States",
+            "map": "./US.png",
+            "small-info" : "The United States, a vast and diverse nation in North America, is renowned for its dynamic culture, technological innovation, and varied landscapes. From the iconic skyline of New York City to the natural wonders of the Grand Canyon and Yellowstone National Park, the U.S. offers a broad spectrum of experiences. Its cultural tapestry is woven with influences from around the world, reflected in its music, cuisine, and traditions. The United States is a democratic republic, comprised of 50 states, each with its own unique character. Whether exploring vibrant cities, enjoying outdoor adventures, or immersing oneself in the arts, the U.S. promises a multifaceted and captivating journey.",
+            "recomendations": [
+                {
+                    "id": "rec_1",
+                    "name" : "Glacier National Park",
+                    "info" : "Glaciers are the main draw of this Montana national park, but its more than 700 lakes, two mountain ranges and multiple waterfalls are equally impressive. Hiking is the most popular pastime for visitors thanks to the park's mix of easy trails like Rocky Point and challenging routes, such as Grinnell Glacier and the Highline Trail."
+                },
+                {
+                    "id": "rec_2",
+                    "name" : "Maui",
+                    "info" : "With idyllic beaches and verdant parks, Maui offers ample opportunities to relax. Here, you can admire the stunning scenery as you cruise along the Road to Hana, fly above the Hawaiian island on a helicopter tour or lounge across the black sands of Wai'anapanapa State Park. If you'd rather cool off than sunbathe, sign up for a snorkeling tour."
+                },
+                {
+                    "id": "rec_3",
+                    "name" : "Grand Canyon National Park",
+                    "info" : "To experience some of the most inspiring views America has to offer, plan a trip to Grand Canyon National Park. A bucket-list item for many travelers, this Arizona park is a superb spot to hike, offering scenic paths like the Bright Angel and North Kaibab trails. The Colorado River weaves its way through the 277-mile-long canyon, which also makes it a top destination for whitewater rafting."
+                }
+            ],
+            "map-cards" : 
+            [
+                {
+                    "id" : "place_card_1",
+                    "name" : "New York",
+                    "hidden" : true,
+                    "procent-cords" : ["28", "87"],
+                    "image" : "./US/cards/ny.jpg" 
+                },
+                {
+                    "id" : "place_card_2",
+                    "name" : "Telluride",
+                    "hidden" : true,
+                    "procent-cords" : ["39", "26"],
+                    "image" : "./US/cards/telluride.jpg" 
+                },
+                {
+                    "id" : "place_card_3",
+                    "name" : "Yellowstone National Park",
+                    "hidden" : true,
+                    "procent-cords" : ["26", "28"],
+                    "image" : "./US/cards/yellowstone.jpg" 
+                }
+            ]
+        }]
+    }
+]

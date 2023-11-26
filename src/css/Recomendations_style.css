@@ -1,0 +1,43 @@
+.recomendations{
+    margin: 2.5%;
+    margin-bottom: 3%;
+}
+.recomendations > h3{
+    font-family: "Tommy";
+    font-size: 4vw;
+    background-color: black;
+    width: fit-content;
+    padding: 0 40px;
+    color: white;
+    margin-left: 2%;
+    border-radius: 4px;
+}
+.recomendations > .rec_box{
+    border-radius: 20px;
+    display: flex;
+    width: 99%;
+    margin: auto;
+    margin-top: 1%;
+    background-color: rgb(247, 247, 247);
+}
+.recomendations > .rec_box > h2{
+    flex: 0 0 auto;
+    padding: 0 3%;
+    margin: auto 0;
+    font-size: 4vw;
+    font-family: "Tommy";
+}
+.rec_box > div{
+    width: 80%;
+    position: relative;
+    padding-bottom: 1.5%;
+    padding-top: 1%;
+}
+.rec_box > div > h3{
+    font-family: "Tommy";
+    font-size: 2vw;
+}
+.rec_box > div > p{
+    font-size: 1vw;
+    font-family: "Creato-Display"
+}

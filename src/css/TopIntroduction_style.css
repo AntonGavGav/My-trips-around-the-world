@@ -1,0 +1,25 @@
+.top_image{
+    position: relative;
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+.top_image > .flag{
+    width: 200px;
+    position: absolute;
+    bottom: -100px;
+    margin-left: 4%;
+}
+
+.top_image > h1{
+    position: relative;
+    font-family: "Stretch";
+    font-size: 130px;
+    width: fit-content;
+    color: white;
+    /*background-color: #5e4ae36c;*/
+    background-color: #000000a1;
+    margin: auto;
+    top: 40%;
+}
