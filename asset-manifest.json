@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-trips-around-the-world/static/css/main.1b3cef03.css",
-    "main.js": "/My-trips-around-the-world/static/js/main.938865a7.js",
+    "main.js": "/My-trips-around-the-world/static/js/main.1ef6cc23.js",
     "static/media/jezael-melgoza-layMbSJ3YOE-unsplash.jpg": "/My-trips-around-the-world/static/media/jezael-melgoza-layMbSJ3YOE-unsplash.8fcd9e4a19b42f050316.jpg",
     "static/media/denys-nevozhai-j8Bc4UerZXY-unsplash.jpg": "/My-trips-around-the-world/static/media/denys-nevozhai-j8Bc4UerZXY-unsplash.f6a40e929f8c04f984bd.jpg",
     "static/media/denys-nevozhai-7nrsVjvALnA-unsplash.jpg": "/My-trips-around-the-world/static/media/denys-nevozhai-7nrsVjvALnA-unsplash.89837e37b2eeecad011f.jpg",
@@ -43,10 +43,10 @@
     "static/media/ukraine.png": "/My-trips-around-the-world/static/media/ukraine.d256ca0201370aafa7e1.png",
     "index.html": "/My-trips-around-the-world/index.html",
     "main.1b3cef03.css.map": "/My-trips-around-the-world/static/css/main.1b3cef03.css.map",
-    "main.938865a7.js.map": "/My-trips-around-the-world/static/js/main.938865a7.js.map"
+    "main.1ef6cc23.js.map": "/My-trips-around-the-world/static/js/main.1ef6cc23.js.map"
   },
   "entrypoints": [
     "static/css/main.1b3cef03.css",
-    "static/js/main.938865a7.js"
+    "static/js/main.1ef6cc23.js"
   ]
 }
